@@ -1,2 +1,3 @@
 # firstrepo
-First Reop
+First Repo
+Fixing Typos
